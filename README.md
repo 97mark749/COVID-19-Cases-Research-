@@ -8,6 +8,6 @@ The purpose of this data analysis is to conclude whether or not there is a coore
     
 Questions:
     
-    1) Does The age of an individual effect the likelyhood of infection?
+    1) Does The age of an individual affect the likelihood of infection?
     2) Does state population per a Sq. Mile coorelate with the possibility of infection?
     3) Does the temperature of a specific region affect (slow or speed up) the infection rate of the COVID-19?
